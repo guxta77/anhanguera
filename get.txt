@@ -1,0 +1,318 @@
+Gustavo Trindade Barbosa
+
+[
+  {
+    "id": 12,
+    "name": "RONALDO",
+    "phone": "21 96739-9876",
+    "created_at": "2024-09-11T20:28:44.340Z",
+    "updated_at": "2024-09-11T23:03:44.400Z",
+    "url": "http://137.184.19.98/contacts/12.json"
+  },
+  {
+    "id": 13,
+    "name": "teste 2",
+    "phone": "1234",
+    "created_at": "2024-09-11T20:29:11.305Z",
+    "updated_at": "2024-09-11T20:29:11.305Z",
+    "url": "http://137.184.19.98/contacts/13.json"
+  },
+  {
+    "id": 14,
+    "name": "teste 2",
+    "phone": "1234",
+    "created_at": "2024-09-11T20:32:34.007Z",
+    "updated_at": "2024-09-11T20:32:34.007Z",
+    "url": "http://137.184.19.98/contacts/14.json"
+  },
+  {
+    "id": 18,
+    "name": "Só fé",
+    "phone": "11987456893",
+    "created_at": "2024-09-11T22:37:50.937Z",
+    "updated_at": "2024-09-11T22:37:50.937Z",
+    "url": "http://137.184.19.98/contacts/18.json"
+  },
+  {
+    "id": 20,
+    "name": "Weder - chama la",
+    "phone": "965727088",
+    "created_at": "2024-09-11T22:38:07.052Z",
+    "updated_at": "2024-09-11T22:38:07.052Z",
+    "url": "http://137.184.19.98/contacts/20.json"
+  },
+  {
+    "id": 21,
+    "name": "pppp",
+    "phone": "11987458896",
+    "created_at": "2024-09-11T22:38:07.303Z",
+    "updated_at": "2024-09-11T22:39:32.589Z",
+    "url": "http://137.184.19.98/contacts/21.json"
+  },
+  {
+    "id": 23,
+    "name": "dhones",
+    "phone": "11990043834",
+    "created_at": "2024-09-11T22:38:17.750Z",
+    "updated_at": "2024-09-11T22:38:17.750Z",
+    "url": "http://137.184.19.98/contacts/23.json"
+  },
+  {
+    "id": 25,
+    "name": "Teste Anhanguera",
+    "phone": "9999999",
+    "created_at": "2024-09-11T22:38:38.934Z",
+    "updated_at": "2024-09-11T22:38:38.934Z",
+    "url": "http://137.184.19.98/contacts/25.json"
+  },
+  {
+    "id": 27,
+    "name": "Lucas Edgard",
+    "phone": "123456789",
+    "created_at": "2024-09-11T22:40:49.710Z",
+    "updated_at": "2024-09-11T22:40:49.710Z",
+    "url": "http://137.184.19.98/contacts/27.json"
+  },
+  {
+    "id": 28,
+    "name": "charlie brown",
+    "phone": "1912",
+    "created_at": "2024-09-11T22:41:47.886Z",
+    "updated_at": "2024-09-11T22:41:47.886Z",
+    "url": "http://137.184.19.98/contacts/28.json"
+  },
+  {
+    "id": 29,
+    "name": "teste",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:42:47.608Z",
+    "updated_at": "2024-09-11T22:42:47.608Z",
+    "url": "http://137.184.19.98/contacts/29.json"
+  },
+//este sou eu, id 30
+  {
+    "id": 30,
+    "name": "guxta post/put",
+    "phone": "777777",
+    "created_at": "2024-09-11T22:43:05.494Z",
+    "updated_at": "2024-09-11T22:45:49.310Z",
+    "url": "http://137.184.19.98/contacts/30.json"
+  },
+
+  {
+    "id": 32,
+    "name": "Bill gates",
+    "phone": "1111111",
+    "created_at": "2024-09-11T22:44:20.443Z",
+    "updated_at": "2024-09-11T22:44:20.443Z",
+    "url": "http://137.184.19.98/contacts/32.json"
+  },
+  {
+    "id": 34,
+    "name": "pedrinho matador",
+    "phone": "12121212121212",
+    "created_at": "2024-09-11T22:45:02.890Z",
+    "updated_at": "2024-09-11T22:45:02.890Z",
+    "url": "http://137.184.19.98/contacts/34.json"
+  },
+  {
+    "id": 35,
+    "name": "teste",
+    "phone": "1234567899",
+    "created_at": "2024-09-11T22:46:15.302Z",
+    "updated_at": "2024-09-11T22:46:15.302Z",
+    "url": "http://137.184.19.98/contacts/35.json"
+  },
+  {
+    "id": 37,
+    "name": "teste",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:52:05.263Z",
+    "updated_at": "2024-09-11T22:52:05.263Z",
+    "url": "http://137.184.19.98/contacts/37.json"
+  },
+  {
+    "id": 38,
+    "name": "juventude hehehe",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:52:08.232Z",
+    "updated_at": "2024-09-11T22:56:42.439Z",
+    "url": "http://137.184.19.98/contacts/38.json"
+  },
+  {
+    "id": 39,
+    "name": "maracana",
+    "phone": "12123123131",
+    "created_at": "2024-09-11T22:52:27.797Z",
+    "updated_at": "2024-09-11T22:52:27.797Z",
+    "url": "http://137.184.19.98/contacts/39.json"
+  },
+  {
+    "id": 40,
+    "name": "FLAMENGO2",
+    "phone": "12123123131",
+    "created_at": "2024-09-11T22:53:07.018Z",
+    "updated_at": "2024-09-11T22:56:36.861Z",
+    "url": "http://137.184.19.98/contacts/40.json"
+  },
+  {
+    "id": 41,
+    "name": ">>>>>>",
+    "phone": "bjbjkbn4",
+    "created_at": "2024-09-11T22:53:25.821Z",
+    "updated_at": "2024-09-11T22:53:25.821Z",
+    "url": "http://137.184.19.98/contacts/41.json"
+  },
+  {
+    "id": 42,
+    "name": "teste",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:53:35.883Z",
+    "updated_at": "2024-09-11T22:53:35.883Z",
+    "url": "http://137.184.19.98/contacts/42.json"
+  },
+  {
+    "id": 43,
+    "name": "Lucas 01",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:53:44.448Z",
+    "updated_at": "2024-09-11T22:53:44.448Z",
+    "url": "http://137.184.19.98/contacts/43.json"
+  },
+  {
+    "id": 44,
+    "name": "testo",
+    "phone": "40028922",
+    "created_at": "2024-09-11T22:53:47.858Z",
+    "updated_at": "2024-09-11T22:53:47.858Z",
+    "url": "http://137.184.19.98/contacts/44.json"
+  },
+  {
+    "id": 45,
+    "name": "BATATA",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:53:54.655Z",
+    "updated_at": "2024-09-11T22:56:41.396Z",
+    "url": "http://137.184.19.98/contacts/45.json"
+  },
+  {
+    "id": 47,
+    "name": null,
+    "phone": "12356897458",
+    "created_at": "2024-09-11T22:53:58.113Z",
+    "updated_at": "2024-09-11T22:53:58.113Z",
+    "url": "http://137.184.19.98/contacts/47.json"
+  },
+  {
+    "id": 48,
+    "name": "Santos",
+    "phone": "74764622",
+    "created_at": "2024-09-11T22:54:05.708Z",
+    "updated_at": "2024-09-11T22:54:05.708Z",
+    "url": "http://137.184.19.98/contacts/48.json"
+  },
+  {
+    "id": 49,
+    "name": "dhone-calotero",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:54:11.471Z",
+    "updated_at": "2024-09-11T22:54:11.471Z",
+    "url": "http://137.184.19.98/contacts/49.json"
+  },
+  {
+    "id": 50,
+    "name": null,
+    "phone": "12356897458",
+    "created_at": "2024-09-11T22:55:23.394Z",
+    "updated_at": "2024-09-11T22:55:23.394Z",
+    "url": "http://137.184.19.98/contacts/50.json"
+  },
+  {
+    "id": 53,
+    "name": "teste",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:55:44.243Z",
+    "updated_at": "2024-09-11T22:55:44.243Z",
+    "url": "http://137.184.19.98/contacts/53.json"
+  },
+  {
+    "id": 54,
+    "name": null,
+    "phone": "12356897458",
+    "created_at": "2024-09-11T22:55:47.936Z",
+    "updated_at": "2024-09-11T22:55:47.936Z",
+    "url": "http://137.184.19.98/contacts/54.json"
+  },
+  {
+    "id": 56,
+    "name": "teste",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:58:25.892Z",
+    "updated_at": "2024-09-11T22:58:25.892Z",
+    "url": "http://137.184.19.98/contacts/56.json"
+  },
+  {
+    "id": 57,
+    "name": "Santosfc",
+    "phone": "12345678899",
+    "created_at": "2024-09-11T22:58:53.056Z",
+    "updated_at": "2024-09-11T22:58:53.056Z",
+    "url": "http://137.184.19.98/contacts/57.json"
+  },
+  {
+    "id": 58,
+    "name": null,
+    "phone": "12356897459",
+    "created_at": "2024-09-11T22:59:33.440Z",
+    "updated_at": "2024-09-11T22:59:33.440Z",
+    "url": "http://137.184.19.98/contacts/58.json"
+  },
+  {
+    "id": 60,
+    "name": null,
+    "phone": "12356897459",
+    "created_at": "2024-09-11T23:00:25.797Z",
+    "updated_at": "2024-09-11T23:00:25.797Z",
+    "url": "http://137.184.19.98/contacts/60.json"
+  },
+  {
+    "id": 61,
+    "name": "zé da mangaaa",
+    "phone": "6966",
+    "created_at": "2024-09-11T23:00:30.224Z",
+    "updated_at": "2024-09-11T23:04:23.090Z",
+    "url": "http://137.184.19.98/contacts/61.json"
+  },
+  {
+    "id": 62,
+    "name": "teste",
+    "phone": "123568974741",
+    "created_at": "2024-09-11T23:00:46.190Z",
+    "updated_at": "2024-09-11T23:05:14.397Z",
+    "url": "http://137.184.19.98/contacts/62.json"
+  },
+  {
+    "id": 63,
+    "name": "Grazi",
+    "phone": "7777777777",
+    "created_at": "2024-09-11T23:01:19.902Z",
+    "updated_at": "2024-09-11T23:01:19.902Z",
+    "url": "http://137.184.19.98/contacts/63.json"
+  },
+  {
+    "id": 65,
+    "name": "CESAR DO JOB BARATO",
+    "phone": "20",
+    "created_at": "2024-09-11T23:02:04.492Z",
+    "updated_at": "2024-09-11T23:02:04.492Z",
+    "url": "http://137.184.19.98/contacts/65.json"
+  },
+  {
+    "id": 66,
+    "name": "euu",
+    "phone": "40028922",
+    "created_at": "2024-09-11T23:02:28.116Z",
+    "updated_at": "2024-09-11T23:02:28.116Z",
+    "url": "http://137.184.19.98/contacts/66.json"
+  }
+]

@@ -1,0 +1,7 @@
+Gustavo Trindade Barbosa
+
+http://137.184.19.98/contacts/30.json
+Status: 204 No Content
+Size: 0 Bytes
+Time: 294 ms
+"arquivo deletado"
